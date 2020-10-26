@@ -33,15 +33,14 @@ Enter text to classify  and getting output
 
 ![](pic_1.png)
  
-
 ## Basic Overview of Training Data Sets
 
 Proportion of message categories 
-
+![](pic_2.png)
  
 
-## Enter Water in message box 
+## Entered Water in message box 
 
- 
+![](pic_3.png)
 
- 
+![](pic_4.png)
