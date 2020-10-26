@@ -31,7 +31,7 @@ as example https://viewa7a4999b-3001.udacity-student-workspaces.com/"
 
 Enter text to classify  and getting output 
 
-![](screen shots/pic_1.png)
+![](pic_1.png)
  
 
 ## Basic Overview of Training Data Sets
