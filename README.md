@@ -31,16 +31,16 @@ as example https://viewa7a4999b-3001.udacity-student-workspaces.com/"
 
 Enter text to classify  and getting output 
 
-![](screen_shot/pic_1.png)
+ 
 
 ## Basic Overview of Training Data Sets
 
 Proportion of message categories 
 
-![](pic_2.png)
+ 
 
 ## Enter Water in message box 
 
-![](pic_4.png)
+ 
 
-![](pic_3.png)
+ 
