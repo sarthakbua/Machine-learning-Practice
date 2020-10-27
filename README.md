@@ -1,5 +1,6 @@
 # Machine-learning-Practice
 
-This is an attempt to create repository of Machine learning practice 
+Air BNB data set is given  in Udacity data science course.
 
-Air BNB Boston data set , it has three  data files
+Air BNB is providing rental rooms for customer.  One file is containing  data calendar wise room fulfilment, Second file is data related to room attributes, positions  etc
+third file 
