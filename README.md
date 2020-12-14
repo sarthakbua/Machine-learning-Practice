@@ -28,5 +28,17 @@ v.	As part of the comparative analysis, no machine learning algorithm was applie
 vi.	Deleting license because of null, and other fields like 'experiences_offered','market','jurisdiction_names' as they may not have significant influence
 3.	Identifying features that significantly influence pricing. Used Pearson Correlation to get a sense of the attrbutes that correlate more with pricing. Use the remaining columns and do another round of cleanup
 
+## Result
+1.	Availability & Price over Time Overall it seems Seattle has listings available consistently across the year when compared to Boston. In terms of pricing, Boston seems to match or is more pricey during the year except the big dip when compared to prices in Seattle. Average price of Boston listing over the year is $ 98 and $92.5 in Seattle Seattle has more listings, perhaps being the reason for lower price than Boston Boston has more listings concentrated towards the city and could be the reason for increased pricing More reviews have been posted for listings in Seattle than that of Boston, probably because of the number of listings and could also be the visiting preference Seattle has more private rooms and home listings than Boston
+2.	Popularity by Review score rating and Sentiment analysis
+We listed the popular places to stay with listing includes location with at least 10 reviews. This is based on review rating score In Seattle popular listings seem to be distributed across south and cetral areas whereas in Boston all are certally located
+3.	Sentiment Analysis
+Sentiment Analysis using polarity score does not tell us whether Good review correlates with prices. However it does show that moving from those places with good polarity scores to lower polarity scores does show a slight decline in prices. A lot of the higher priced locales seem to have a very low polarity score. So any conclusion here requires more analysis Sentiment Analysis reinforces the findings from review score rating. the top neighborhoods are an almost match in terms of where people have expressed positive comments
+
+Extra --
+Modeling for Seattle
+1.	Create train and test data sets using the cleansed features
+2.	Important Features - "neighbourhood_cleansed","guests_included", "property_type","room_type", "accommodates", "bathrooms", "bedrooms", "beds", "price", "number_of_reviews", "cancellation_policy", 'security_deposit', "reviews_per_month", 'cleaning_fee', 'amenities'
+3.	Applied Linear regression Based on the chart, the model is not doing really well in predicting the price.We should analyze more and apply other algorithms like Random Forest to see what the outcome is.
 
 
