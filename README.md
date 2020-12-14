@@ -6,7 +6,7 @@ Airbnb provides a platform for hosts to accommodate guests with short-term lodgi
 The following Airbnb activity is included in Seattle & Boston datasets:
 1.	Listings, including other features that are available in the listing and also the review score
 2.	Reviews, includes the listing and the detailed comments
-3.	Calendar, containing the listing and the price associated
+3.	Calendar, containing the listing and the price associated.
 
 ## Questions
 1.	What do we understand about the availability of litings and their price over time
